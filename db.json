@@ -1,0 +1,71 @@
+{
+  "productList": [
+    {
+      "productName": "3babo",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 26,
+      "comment": "ikc,dk,",
+      "date": "2023-02-09T23:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "AZSK",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 1234,
+      "comment": "SDFDFF",
+      "date": "2023-02-08T23:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "UDHUDEJ",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 45678,
+      "comment": "XGYUHS",
+      "date": "2023-02-07T23:00:00.000Z",
+      "id": 9
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Abdo Harakani",
+      "email": "ABdo@gmail.com",
+      "password": "Abdo1233",
+      "mobile": 658674540,
+      "id": 1
+    },
+    {
+      "fullname": "HARAKOON XJDNXI",
+      "email": "AKOdo@gmail.com",
+      "password": "TZLNC7890",
+      "mobile": 9237378839,
+      "id": 2
+    },
+    {
+      "fullname": "Abdoo Naimo",
+      "email": "abdo@gmail.com",
+      "password": "123456",
+      "mobile": 837678943,
+      "id": 3
+    },
+    {
+      "fullname": "ERTYU RTYUIO",
+      "email": "abdo@gmail.com",
+      "password": "123456",
+      "mobile": 4567890,
+      "id": 4
+    },
+    {
+      "fullname": "TYUIL",
+      "email": "FGUI@gmail.com",
+      "password": "123456",
+      "mobile": 456789,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
